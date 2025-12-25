@@ -5,15 +5,6 @@
 This is my e-commerce website, built to showcase my experience and capabilities.<br>
 Bu e-ticaret web sitesini, deneyim ve yetkinliklerimi sergilemek için geliştirdim.<br>
 <br>
-For a quick design overview, see the live demo below: <br>
-> **⚠️ Note:** This demo doesn’t represent the final result — <mark>the free host disables MySQL stored procedures</mark>, so some features are limited.<br>
-<br>
-Hızlı bir tasarım özeti için aşağıdaki canlı demoya bakabilirsiniz: <br>
-> **⚠️ Not:** Bu demo nihai sonucu tam yansıtmaz — <mark>ücretsiz sağlayıcı MySQL saklı yordamlarını desteklemiyor</mark>, bu yüzden bazı özellikler kısıtlıdır.<br>
-<br><a href="https://modaway.42web.io/Mysqlecommerce/index.php">
-  <img src="https://img.shields.io/badge/Demo-Limited-red" alt="Demo: Limited">
-</a><br>
-<br>
 📄 Proje dokümanı (PDF — Türkçe):<br>
 <a href="https://github.com/user-attachments/files/22286144/myecommercedocument.pdf">
   <img src="https://img.shields.io/badge/Proje%20Dok%C3%BCman%C4%B1-PDF-red?logo=adobeacrobat" alt="PDF — Proje Dokümanı">
